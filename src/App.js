@@ -8,8 +8,8 @@ import Cards4 from './components/Cards4';
 function App() {
   return (
     <div className='App'>
-      <h1 color='brown'>The best tourist destination on Earth 2022</h1>
-      <h5>Nguyen Minh Huy - SE161323</h5>
+      <h1 color='brown'>Personal Portfolio for Internship 2023</h1>
+      <h5>Student: Nguyen Minh Huy - SE161323</h5>
       <Cards />
       <Cards2 />
       <Cards3 />

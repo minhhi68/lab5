@@ -1,15 +1,17 @@
-let img3='https://blog-www.pods.com/wp-content/uploads/2021/03/resized_FI_Getty_San-Francisco-CA-1.jpg'
+let img3='https://www.pharmacyquality.com/wp-content/uploads/2020/12/achievements.jpg'
 
 export default function Cards(){
     return(
         <div className='card'>
       <img src ={img3} alt =''/>
       <div className='card-content'>
-        <h2 className='card_title'>San Francisco</h2>
-        <p className='card_description'>San Francisco, officially the 
-        City and County of San Francisco, is the commercial, financial, and cultural center of Northern California.
-         The city proper is the fourth most populous in California
-         and 17th most populous in the United States, with 815,201 residents as of 2021.</p>
+        <h2 className='card_title'>Student's Achievements</h2>
+        <p>Your experiences tell us who you are</p>
+        <p className='card_description'>Been working as a good student and excellent Achievements for the last 12 years. I am so thrilled to introduce
+        myself as an energetic and passionate student who is not afraid of anything and dare to confront the challenges. Some of the Achievements like 
+        IELTS, SAT are just one of the examples of what I have done in my whole life up to date. I believe consistence and durability is the way 
+        to express who I am and I am proud about it. 
+        </p>
         
       </div>
     </div>
